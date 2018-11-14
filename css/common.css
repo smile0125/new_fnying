@@ -75,6 +75,10 @@ input, textarea {
     color: #ffffff;
 }
 
+.color_ye {
+    color: #ffd105;
+}
+
 /*footer*/
 #footer {
     position: relative;
