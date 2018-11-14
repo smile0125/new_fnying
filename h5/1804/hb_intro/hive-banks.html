@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Hive Banks</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=0">
+  <link rel="stylesheet" href="https://cdn.bootcss.com/weui/1.1.2/style/weui.min.css">
+  <link rel="stylesheet" href="css/style.css">
+  <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+</head>
+<body ontouchstart>
+  <!-- 导航栏 -->
+  <div class="nav-line">
+        <div class="nav">
+          <div class="logo">
+            <h4>
+              HiveBanks项目白皮书<br>兼概要设计（中文版）
+            </h4>
+          </div>
+          <div class="bar">
+              <button type="button" id="bar" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse" aria-expanded="true">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+          </div>
+        </div>
+        <div class="nav-item" id="nav-item">
+          <a href="#HM" class="item-content">HM概述</a>
+          <a href="#LA" class="item-content">LA职能</a>
+          <a href="#BA" class="item-content">BA职能</a>     
+          <a href="#CA" class="item-content">CA职能</a>
+          <a href="#USER" class="item-content">用户操作</a>
+        </div>
+  </div>
+  <div class="detail" id="detail">
+    <div class="page article js_show">
+      <div class="page_hd">
+        <br>
+        <br>
+        <p class="page_desc">
+          <b>项目官网：</b>
+          <a href="https://www.hivebanks.com" style="color: blue;">https://www.hivebanks.com</a>
+        </p>
+        <p class="page_desc">
+          <b>关键词：</b>
+        </p>
+        <p class="page_desc">
+          官网，母体，整个项目组（Home 以下简称 <b>HM</b>）。
+        </p>
+        <p class="page_desc">
+          分布式数字资产管理中心（Distributed Local Alliance 以下简称 <b>LA</b>）。
+        </p>
+        <p class="page_desc">
+          分布式数字货币代理商（Distributed Bitcoin Agency 以下简称 <b id="HM">BA</b> ）。
+        </p>
+        <p class="page_desc">
+          分布式法币代理商（Distributed Cash Agency 以下简称 <b>CA</b>）。
+        </p>
+      </div>
+      <div class="page_bd">
+        <article class="weui-article">
+          <h2>
+            <b>一、母体<b>HM</b>进化的三阶段：Origin，Matrix，The Queen</b>
+          </h2>
+          <br>
+          <section>
+            <h3 class="sj">
+              1. 起源（Origin）阶段
+            </h3>
+            <section class="pad sj">
+              <p>
+                天使资金募集，最小可行开源<b>LA</b>源代码的创建与部分必须功能的<b>HM</b>源代码（非开源）的实现。
+              </p>
+              <p>
+                结束标志：最小可行<b>LA</b>源代码在Github上的全部开源。
+              </p>
+              <p>
+                预期时间：半年
+              </p>
+            </section>
+            <h3 class="sj">
+              2. 母体（Matrix）阶段
+            </h3>
+            <section class="pad sj">
+              <p>
+                再次资金募集，通过全球宣传，寻找并扶持至少3个语言版本，使用开源代码在3个国家创建同源数字资产管理中心<b>LA</b>。
+              </p>
+              <p>
+                结束标志：各语言版本均稳定运行，各项<b>LA</b>基本业务达成预期功能指标，为本地客户提供满意的服务。
+              </p>
+              <p>
+                预期时间：一年
+              </p>
+            </section>
+            <h3 class="sj">
+              3. 皇后（Queen）阶段
+            </h3>
+            <section class="pad sj">
+              <p>
+                最后一次资金募集，创建<b>LA</b>之间的联通，通过<b>HM</b>发行的VIP账号系统使客户的资产可以通过各<b>LA</b>的联通进行无缝对接。完善<b>HM</b>及<b>LA</b>代码，对<b>LA</b>联通发生的问题及时进行反馈和修复。
+              </p>
+              <p>
+                结束标志：各<b>LA</b>间资金联通稳定运行半年以上，各项基本业务达成预期功能指标，为全球客户提供满意的服务。
+              </p>
+              <p>
+                预期时间：一年
+              </p>
+            </section>                
+          </section>
+          <h2 id="LA">
+            <b>二、<b>HM</b>盈利模式：</b>
+          </h2>
+          <section  class="sj">
+            <p class="pad">
+              <b>LA</b>认证管理费，<b>LA</b>资产管理费，<b>LA</b>技术支持费，全球VIP账户年费及其他各项服务费用。
+            </p>
+          </section>
+          <h2>
+            <b>三、分布式数字资产管理中心<b>LA</b></b>
+          </h2>
+          <section>
+            <h3 class="sj">1. 管理标的：</h3>
+            <section class="pad sj">
+              <p>
+                具体某种数字货币；
+              </p>
+              <p>
+                其他任意数字资产。
+              </p>
+            </section>
+            <h3 class="sj">2. 标的单位（基准数字资产）：</h3>
+            <section class="pad sj">
+              <p>
+                由<b>LA</b>自主选择一种数字货币作为标的和准备金。默认选择为采用当前最大市值的数字货币的最小单位为一个基准，既一个比特币（BTC）的亿分之一（Satoshi 聪）。
+              </p>
+            </section>
+            <h3 class="sj">3. 资格取得和终止</h3>
+            <section class="pad sj">
+              <p>
+                资格获取是开放的，任何人都可以通过从Github下载源代码，只要拥有域名，服务器空间和数据库，每个人都可以搭建属于自己的数字资产管理中心。
+              </p>
+              <p>
+                何时终止服务亦由管理者自行决定。但终止服务后任何对服务用户的清偿处理或需要承担的法律责任等，与<b>HM</b>无任何关系。
+              </p>
+            </section>
+            <h3 class="sj">4. 主要业务内容：</h3>
+            <section class="pad">
+              <p class="sj">
+                4.1 招募或承担数字货币代理商<b>BA</b>
+              </p>
+              <p class="sj2 sj">
+                招募或承担数字货币代理商<b>BA</b>。
+              </p>
+              <p class="sj">
+                4.2 招募或承担法币代理商<b>CA</b>
+              </p>
+              <p class="sj2 sj">
+                视各国法律情况，<b>LA</b>自身或与银行，支付系统，个人合作承担法币兑换基准数字资产的代理。
+              </p>
+              <p class="sj">
+                4.3 数字货币和数字资产的保管
+              </p>
+              <p class="sj2 sj">
+                <b>HM</b>，<b>LA</b>自身，或<b>HM</b>推荐的<b>BA</b>。
+              </p>
+              <p class="sj">
+                4.4 客户身份认证及管理
+              </p>
+              <p class="sj">
+                4.5 内部客户转账处理
+              </p>
+              <p class="sj">
+                4.6 跨<b>LA</b>客户转账处理
+              </p>
+              <p class="sj">
+                4.7 货币代理商<b>BA</b>和<b>CA</b>的管理
+              </p>
+              <p class="sj2 sj">
+                <b>HM</b>会为<b>LA</b>提供专门的<b>BA</b>，<b>CA</b>管理平台。<b>LA</b>可通过该管理平台设置和管理<b>BA</b>，<b>CA</b>账号账户及身份验证密钥等信息。<b>LA</b>可通过该管理平台查询<b>BA</b>，<b>CA</b>的具体业务处理日志。<b>LA</b>可通过该管理对有问题的业务做出仲裁处理。
+              </p>
+            </section>
+            <h3 class="sj">5. 盈利模式：</h3>
+            <section class="pad sj">
+              <p>
+                数字资产管理费，客户数字资产担保的法币贷款利息，其他各项服务费用。
+              </p>
+            </section>
+          </section>
+          <h2>
+            <b>四、<b>LA</b>升级进化的各个阶段：</b>
+          </h2>
+          <section>
+            <h3 class="sj">1. Origin 阶段</h3>
+            <section class="pad sj">
+              <p>
+                <b>HM</b>提供的是Unlimited版本的<b>LA</b>源代码，支持万人规模的用户，千人在线。
+              </p>
+            </section>
+            <h3 class="sj">2. Matrix 阶段</h3>
+            <section class="pad sj">
+              <p>
+                <b>HM</b>将提供一星版本的<b>LA</b>源代码，支持10万人规模的用户，万人在线。
+              </p>
+            </section>
+            <h3 class="sj">3. Queen 及以后阶段<b>HM</b>将相继提供</h3>
+            <section class="pad sj">
+              <p>
+                二星版本的<b>LA</b>源代码，支持百万规模的用户，10万在线。
+              </p>
+              <p>
+                三星版本的<b>LA</b>源代码，支持千万规模的用户<span id="BA"></span>，百万在线。
+              </p>
+              <p>
+                支持更多用户的四星及以上<b>LA</b>版本将由<b>HM</b>辅助，三星<b>LA</b>为主自行研发。
+              </p>
+            </section>
+          </section>
+          <h2>
+            <b>五、分布式数字货币代理商<b>BA</b>（distributed bitcoin_agency）</b>
+          </h2>
+          <section>
+            <h3 class="sj">1. 管理标的：</h3>
+            <section class="pad sj">
+              <p>具体某种数字货币;</p>
+              <p>
+                <b>LA</b>为<b>BA</b>开设的专用账户。
+              </p>
+            </section>
+            <h3 class="sj">2. 资格取得和终止</h3>
+            <section class="pad sj">
+              <p>
+                <b>BA</b>必须向<b>LA</b>缴纳一定数量的数字货币保证金才能获得<b>BA</b>资格。具体保证金的金额由<b>LA</b>自行制定政策决定。取得资格后<b>BA</b>将获得为<b>LA</b>提供代理充值提现所必须的<b>BA</b>认证信息（交易密钥）。<b>HM</b>会为<b>BA</b>提供专门的工具，调用API接口方便<b>BA</b>自动化处理用户的充值提现请求。
+              </p>
+            </section>
+            <h3 class="sj">3. 主要业务内容：</h3>
+            <section class="pad">
+              <p class="sj">3.1 设置<b>BA</b>充值提现汇率</p>
+              <p class="sj2 sj">
+                通过<b>HM</b>提供的专用工具可绑定具体某家数字货币交易所的信息进行自动设置。
+              </p>
+              <p class="sj">3.2 处理用户充值请求</p>
+              <p class="sj2 sj">
+                通过<b>HM</b>提供的专用工具可自动处理用户的数字货币充值请求。
+              </p>
+              <p class="sj">3.3 处理用户提现请求</p>
+              <p class="sj2 sj">
+                通过<b>HM</b>提供的专用工具可自动处理用户的数字货币提现请求。
+              </p>
+            </section>
+            <h3 class="sj">4. 盈利模式：</h3>
+            <section class="pad sj">
+              <p><b>BA</b>的充值提现汇率。</p>
+            </section>
+            <h3 class="sj">5. 特别说明：</h3>
+            <section class="pad sj">
+              <p>
+                因数字货币跨地区的互联网流动属性，一个有能力的<b>BA</b>可以同时代理全球多家<b>LA</b>的充值提现业务。<span id="CA"></span>因此，同时代理多家<b>LA</b>的<b>BA</b>有义务接受<b>HM</b>的统一管理，<b>HM</b>将对符合资质的<b>BA</b>颁发相关认证。
+              </p>
+            </section>
+          </section>
+          <h2><b>六、分布式法币代理商<b>CA</b>（distributed cash_agency）</b></h2>
+          <section>
+            <h3 class="sj">1. 管理标的：</h3>
+            <section class="pad sj">
+              <p>具体某种法币；</p>
+              <p>
+                <b>LA</b>为<b>CA</b>开设的专用账户。
+              </p>
+            </section>
+            <h3 class="sj">2. 资格取得和终止</h3>
+            <section class="pad sj">
+              <p>
+                同<b>BA</b>，<b>CA</b>必须向<b>LA</b>缴纳一定数量的数字货币保证金才能获得<b>CA</b>资格，具体保证金的金额由<b>LA</b>自行制定政策决定，取得资格后<b>CA</b>将获得为<b>LA</b>提供代理充值提现所必须的<b>CA</b>认证信息（交易密钥），调用API接口自动化或半自动地处理用户的充值提现请求。
+              </p>
+            </section>
+            <h3 class="sj">3. 主要业务内容：</h3>
+            <section class="pad">
+              <p class="sj">3.1 设置<b>CA</b>充值提现汇率</p>
+              <p class="sj2 sj">
+                通过<b>HM</b>提供的专用工具可绑定具体某家数字货币交易所的信息进行自动设置。
+              </p>
+              <p class="sj">3.2 维护<b>CA</b>自动收款接口</p>
+              <p class="sj2 sj">
+                有能力的<b>CA</b>可向<b>LA</b>提供自己独立的自动收款接口，方便<b>CA</b>收款后自动化处理用户的充值请求。
+              </p>
+              <p class="sj">3.3 维护<b>CA</b>自动付款接口</p>
+              <p class="sj2 sj">
+                有能力的<b>CA</b>可自行创建和维护自动付款接口，方便<b>CA</b>收到用户提现请求后自动化处理用户的法币转账信息。
+              </p>
+              <p class="sj">3.4 处理用户充值请求</p>
+              <p class="sj2 sj">
+                通过<b>HM</b>提供的专用工具可自动或半自动地处理用户的法币转数字货币的充值请求。
+              </p>
+              <p class="sj">3.5 处理用户提现请求</p>
+              <p class="sj2 sj">
+                通过<b>HM</b>提供的专用工具可自动或半自动地处理用户的数字货币转法币的提现请求。
+              </p>
+            </section>
+            <h3 class="sj" id="USER">4. 盈利模式：</h3>
+            <section class="pad sj">
+              <p><b>CA</b>的充值提现汇率。</p>
+            </section>
+          </section>
+          <h2><b>七、普通客户US（user）</b></h2>
+          <section>
+            <h3 class="sj">1. 账号注册</h3>
+            <section class="pad sj">
+              <p>
+                <b>HM</b>会为<b>LA</b>准备用户多因子认证信息，<b>LA</b>自行选择其中若干项作为用户的注册及认证方式。
+              </p>
+            </section>
+            <h3 class="sj">2. 充值处理</h3>
+            <section class="pad sj">
+              <p>
+                用户根据自己的支付途径选择<b>LA</b>提供的支持该支付途径进行充值的代理商其中之一，按照该代理商提供的当前汇率进行数字货币充值。如在充值过程中产生争议，将相关证据提交<b>LA</b>进行仲裁。
+              </p>
+            </section>
+            <h3 class="sj">3. 提现处理</h3>
+            <section class="pad sj">
+              <p>
+                用户根据自己的提现途径选择<b>LA</b>提供的支持该提现途径进行提现的代理商其中之一，按照该代理商提供的当前汇率进行提现。如在提现过程中产生争议，将相关证据提交<b>LA</b>进行仲裁。
+              </p>
+            </section>
+            <h3 class="sj">4. 转账处理</h3>
+            <section class="pad sj">
+              <p>
+                用户将账户中的金额部分或全部划拨至该LA管理或与该LA联通的其他账户上。<b>LA</b>内部转账根据<b>LA</b>各自政策可能收取部分转账手续费用。跨<b>LA</b>转账视转账双方<b>LA</b>及<b>HM</b>的政策可能收取部分转账手续费用。
+              </p>
+            </section>
+            <h3 class="sj">5. 其他数字资产托管</h3>
+            <section class="pad sj">
+              <p>
+                托管方式和费用收取方式由<b>LA</b>自行决定。<b>LA</b>的Unlimited版本暂不支持该功能。
+              </p>
+            </section>
+          </section>
+        </article>
+      </div>
+    </div>
+  </div>
+
+
+    <script src="http://res.wx.qq.com/open/js/jweixin-1.2.0.js"></script>
+    <script src="http://wx.fnying.com/js/wx.js"></script>
+    <script src="http://www.fnying.com/js/cnt.js"></script>
+    <script src="js/hive-banks.js"></script>
+
+
+</body>
+</html>

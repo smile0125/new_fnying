@@ -1,0 +1,188 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.navbar {
+    margin: 0;
+}
+
+.navbar-default .navbar-nav > li > a {
+    font-weight: bold;
+    color: #333333 !important;
+    transition: all 0.5s;
+}
+
+nav {
+    display: none;
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > .active > a:hover {
+    background: #ffd105;
+}
+
+.navbar-default .navbar-nav > .active > a {
+    background: #ffd105;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ffd105;
+}
+
+li {
+    list-style: none;
+}
+
+img {
+    width: 100%;
+}
+
+button {
+    outline: none;
+}
+
+input, textarea {
+    font-size: 14px !important;
+}
+
+/*？margin*/
+.margin-top-5 {
+    margin-top: 5%;
+}
+
+.margin-bottom-5 {
+    margin-bottom: 5%;
+}
+
+/*padding*/
+.padding-top-5 {
+    padding-top: 5%;
+}
+
+.padding-bottom-5 {
+    padding-bottom: 5%;
+}
+
+.form-group {
+    margin: 0;
+}
+
+.color_white {
+    color: #ffffff;
+}
+
+/*footer*/
+#footer {
+    position: relative;
+    background: #16233e;
+    padding: 5% 0 2% 0;
+}
+
+#footer h4 {
+    color: #ffffff;
+}
+
+#footer li {
+    margin-bottom: 5px;
+}
+
+#footer p, #footer li, #footer a {
+    color: #ffffff;
+}
+
+.footer-top a {
+    font-size: 12px;
+}
+
+#footer a:hover {
+    color: #ffd105;
+}
+
+#footer .footer-top {
+    padding-bottom: 2%;
+}
+
+#footer .form-group-sm {
+    display: flex;
+    align-items: center;
+}
+
+#footer .footer-top .sub_btn {
+    background: transparent;
+    border: 1px solid #fff;
+    margin-left: 5px;
+}
+
+#footer .footer-top .sub_btn:hover {
+    color: #ffd105;
+    border: 1px solid #ffd105;
+}
+
+#footer .footer-top .footer_icon_box i {
+    transition: all 1s;
+}
+
+#footer .footer-top .footer_icon_box i:hover {
+    transform: rotate(360deg);
+    color: #ffd105;
+    cursor: pointer;
+}
+
+#footer .footer-bottom {
+    padding-top: 2%;
+    border-top: 1px solid #eeeeee;
+}
+
+#footer i.fa {
+    font-size: 3rem;
+}
+
+#scroll_top {
+    border-radius: 50%;
+    position: fixed;
+    right: 1%;
+    bottom: 5%;
+    background: rgba(0, 0, 0, 0.3);
+    width: 3rem;
+    height: 3rem;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    display: none;
+    transition: all 0.3s;
+    z-index: 1;
+}
+
+#scroll_top span {
+    color: #ffd000;
+}
+
+#scroll_top:hover {
+    background: #ffd000;
+}
+
+#scroll_top:hover span {
+    color: #ffffff;
+}
+
+/*flex*/
+.flex {
+    display: flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: -o-flex;
+}
+
+.center {
+    align-items: center;
+}
+
+.space-between {
+    justify-content: space-between;
+}

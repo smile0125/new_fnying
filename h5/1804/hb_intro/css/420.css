@@ -1,0 +1,42 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+	padding: 5%;
+}
+.title{
+	text-align: center;
+	font-size: 24px;
+	font-family: "微软雅黑";
+	font-weight: bold;
+	margin:0 0 1.5em 0;
+}
+img{
+	width: 100%;
+}
+.detail{
+	font-size: 15px;
+	text-align: justify;
+}
+.video-player{
+	margin-top: 0.5em;
+}
+.wechat{
+	text-align: center;
+}
+.logo{
+	display: block;
+	width: 199px;
+	padding: 20px 0;
+}
+.tip{
+	width:130px;
+	font-size: 12px;
+	border: 1px solid rgba(0,0,0,0.5);
+	position: absolute;
+	top: 100px;
+	left: 100px;
+	background-color:rgba(255,246,127,0.5);
+
+}

@@ -1,0 +1,97 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+body{
+	position: relative;
+}
+/*导航栏*/ 
+.nav-line{
+	background: white;
+	width: 100%;
+	position: fixed;
+	top: 0;
+}
+.nav{
+	width: 100%;
+	height: 80px;
+}
+.logo{
+	width: 64%;
+	display: inline-block;
+	position: absolute;
+	top: 20px;
+	left: 5%;
+}
+.bar{
+	display: inline-block;	
+}
+.navbar-toggle{
+	width: 44px;
+	height: 34px;
+	position: absolute;
+    top: 20px;
+	right: 5%;
+	border: 1px solid #ddd;
+	background-color: white;
+	border-radius: 5px;
+}
+.icon-bar{
+	display: block;
+	width: 22px;
+	height: 2px;
+	border-radius: 1px;
+	border-bottom: 1px solid #8F8F8F;
+	margin: auto;
+}
+.nav-item{
+	width: 120px;
+	position: fixed;
+	right: 0;
+	background: rgba(255,255,255,1);
+	border-top: 1px solid #ddd;
+	display: none;
+	border-bottom: 1px solid #ddd;
+}
+a{
+	color: black;
+}
+.item-content{
+	display: block;
+	margin:10px;
+	/*margin-left: 20px;*/
+	text-align: center;
+	font-family: "微软雅黑";
+	font-size: 14px;
+	font-weight: bolder;
+}
+.green{
+	color: rgb(130,202,156);
+}
+
+/*具体内容*/
+.page{
+	margin: 20px 1%;
+}
+.page_hd{
+	margin: 20px;
+	padding-top: 40px;
+}
+.page_title{
+	font-size: 18px;
+	font-weight: bold;
+	font-family: "微软雅黑";
+}
+.pic{
+	width: 100%;
+}
+/*hive-banks*/
+/*.sj{
+	text-indent: 12px;
+}*/
+.pad{
+	padding-left: 16px;
+}
+/*.sj2{
+	padding-left: 28px;
+}*/
