@@ -99,14 +99,16 @@ body {
 
 .apply_btn {
     background: transparent;
-    border: 1px solid #ffcf00;
+    /*border: 1px solid #ffcf00;*/
+    border: 1px solid #122747;
     padding: 3% 5%;
     outline: none;
     transition: all 0.5s;
 }
 
 .apply_btn:hover {
-    background: #ffcf00;
+    /*background: #ffcf00;*/
+    background: #122747;
     color: #ffffff;
     box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
 }
@@ -163,7 +165,9 @@ body {
 
 #staff .staff_col:hover {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
-    background: #ffcf00;
+    /*background: #ffcf00;*/
+    background: #122747;
+    color: #ffffff;
 }
 
 #staff .staff_col img {
@@ -207,9 +211,13 @@ body {
 }
 
 /*map*/
-#map, .map_col {
-    width: 100%;
+#map{
     height: 50rem;
+}
+
+.map_col {
+    width: 100%;
+    height: 100%;
 }
 
 .map {

@@ -111,6 +111,11 @@ $(function () {
         autoPlay: true
     });
 
+    //nav toggle
+    $(".navbar-right li").click(function () {
+       $(this).addClass("active").siblings("li").removeClass("active");
+    });
+
     //scroll nav
     var height = "";
     $(window).scroll(function () {

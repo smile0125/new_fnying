@@ -16,13 +16,35 @@
 nav {
     display: none;
 }
-
+.slide-text > a.btn-primary{
+    /*background: #ffd000;*/
+    background: #122747;
+}
+.slide-text > a:hover{
+    background: #122747;
+    color: #ffffff;
+}
+.slide-text > a.btn-primary:hover{
+    border: 1px solid #ffffff;
+    background: #ffffff;
+    color: #122747;
+}
+.navbar-brand{
+    padding-top: 6px;
+}
+.navbar-default{
+    background: #ffffff!important;
+}
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > .active > a:hover {
-    background: #ffd105;
+    /*background: #ffd105;*/
+    background: #122747;
+    color: #ffffff!important;
 }
 
 .navbar-default .navbar-nav > .active > a {
-    background: #ffd105;
+    /*background: #ffd105;*/
+    background: #122747;
+    color: #ffffff!important;
 }
 
 a {
