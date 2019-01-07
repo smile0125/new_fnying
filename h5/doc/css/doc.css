@@ -1,0 +1,41 @@
+section {
+    min-height: 100vh;
+}
+
+.doc_content {
+    padding-top: 2%;
+    border-top: 1px solid #eeeeee;
+}
+
+.left_nav {
+    border-right: 1px solid #eeeeee;
+}
+
+.left_nav li a {
+    line-height: 34px;
+    color: #000000;
+    font-weight: 400;
+    padding-left: 34px;
+    display: block;
+    border-bottom: 1px solid #eeeeee;
+}
+
+.left_nav li a:hover {
+    background: #82ca9c;
+    color: #ffffff;
+}
+.left_nav li a.active{
+    background: #82ca9c;
+    color: #ffffff;
+}
+.accountNone {
+    display: none!important;
+}
+
+iframe {
+    min-height: 100vh;
+}
+
+.doc_right {
+
+}
