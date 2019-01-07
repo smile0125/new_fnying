@@ -9,6 +9,7 @@
           content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">
     <meta charset="utf-8"/>
     <title>CCVT-文档中心-新手教程</title>
+    <link rel="shortcut icon" href="../favicon.ico">
 </head>
 <body style="margin:0;padding:0;overflow:hidden;border:0">
 
@@ -578,39 +579,55 @@
         }
     })();
 </script>
-<script src="http://apps.bdimg.com/libs/jquery/2.0.0/jquery.min.js"></script>
+<!--<script src="http://apps.bdimg.com/libs/jquery/2.0.0/jquery.min.js"></script>-->
+<script src="../common/js/jquery-3.2.1.min.js"></script>
+<script src="../../../js/cnt.js"></script>
 <script src="js/wx.js"></script>
 <script src="../common/js/common.js"></script>
-<script src="../common/js/share.js"></script>
+<!--<script src="../common/js/share.js"></script>-->
 
-<!--<script>-->
-<!--window.shareData = {-->
-<!--// 分享标题-->
-<!--title: "CCVT 新手教程",-->
-<!--// 分享描述-->
-<!--desc: "沟通创造价值。",-->
-<!--// 分享链接-->
-<!--link: window.location.href,-->
-<!--// 分享图标-->
-<!--imgUrl: 'http://www.fnying.com/h5/ccvt/Q%26A/img/ccvt.png',-->
-<!--success: function () {},-->
-<!--cancel: function () {}-->
-<!--};-->
-<!--$(function () {-->
-<!--// 微信分享处理-->
-<!--if (/MicroMessenger/i.test(navigator.userAgent)) {-->
-<!--$.getScript("https://res.wx.qq.com/open/js/jweixin-1.2.0.js", function () {-->
-<!--// 微信配置启动-->
-<!--wx_config();-->
-<!--wx.ready(function() {-->
-<!--wx.onMenuShareTimeline(shareData);-->
-<!--wx.onMenuShareAppMessage(shareData);-->
-<!--});-->
-<!--});-->
-<!--}-->
-<!--});-->
+<script>
+    window.shareData = {
+// 分享标题
+        title: "CCVT-文档中心-新手教程",
+// 分享描述
+        desc: "沟通创造价值:CCVT新手指南，引导和帮助新用户解决相关问题。",
+// 分享链接
+        link: window.location.href,
+// 分享图标
+        imgUrl: 'http://www.fnying.com/h5/ccvt/common/img/ccvt.png',
+        success: function () {
+        },
+        cancel: function () {
+        }
+    };
+    $(function () {
+// 微信分享处理
+        if (/MicroMessenger/i.test(navigator.userAgent)) {
+            $.getScript("https://res.wx.qq.com/open/js/jweixin-1.2.0.js", function () {
+// 微信配置启动
+                wx_config();
+                wx.ready(function () {
+                    wx.onMenuShareTimeline(shareData);
+                    wx.onMenuShareAppMessage(shareData);
+                });
+            });
+        }
 
-<!--</script>-->
+        var uuid = GetCookie('UUID');
+        if (!uuid) {
+            uuid = new Date().getTime();
+            // 取得UUID
+            GetUUID('', function (response) {
+                if (response.errcode == '0') {
+                    uuid = response.uuid;
+                    SetCookie('UUID', uuid);
+                }
+            }, function (response) {});
+        }
+    });
+
+</script>
 
 </body>
 </html>

@@ -1,0 +1,26 @@
+img {
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+    color: #ffffff;
+    height: 100%;
+}
+
+.height_8rem {
+    height: 8rem;
+}
+
+.height_8rem:hover {
+    background: #333333;
+}
+
+.height_8rem a {
+    color: black;
+}
+
+.height_8rem:hover a {
+    color: #ffffff;
+    text-decoration: none;
+}
