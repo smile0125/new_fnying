@@ -14,3 +14,11 @@ function GetCookie(name) {
     if (arr != null) return unescape(arr[2]);
     return null;
 }
+
+// Get URL parameters
+function GetQueryString(name) {
+    var reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)");
+    var r = window.location.search.substr(1).match(reg);
+    if (r != null) return unescape(r[2]);
+    return null;
+}

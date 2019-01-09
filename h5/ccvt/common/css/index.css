@@ -13,14 +13,21 @@ h1 {
 }
 
 .height_8rem:hover {
-    background: #333333;
+    background: #fafafa;
+    transition: all 0.5s;
 }
 
 .height_8rem a {
     color: black;
+    width: 100%;
 }
 
 .height_8rem:hover a {
-    color: #ffffff;
     text-decoration: none;
+}
+
+@media only screen and (max-width:768px){
+    h1{
+        font-size: 3rem;
+    }
 }

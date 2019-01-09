@@ -11,9 +11,25 @@
     <link rel="stylesheet" href="common/css/index.css">
     <link rel="shortcut icon" href="favicon.ico">
     <title>CCVT-文档中心</title>
-    <script src="//at.alicdn.com/t/font_1002477_9ia1ifna2mt.js"></script>
+    <script src="//at.alicdn.com/t/font_1002477_vr060z8477h.js"></script>
 </head>
 <body>
+<!--nav-->
+<nav class="navbar navbar-default" role="navigation">
+    <div class="container">
+        <div class="nav_left_img_box">
+            <a href="https://ccvt.io">
+                <img src="common/img/ccvt_logo.png" alt="">
+            </a>
+        </div>
+        <ul class="nav_right_item_box">
+            <li class="login"><a href="https://ccvt.io/h5/user/login.html">登录</a></li>
+            <li class="register"><a href="https://ccvt.io/h5/user/register.html">注册</a></li>
+            <li class="none to_account"><a href="https://ccvt.io/h5/user/account.html">账户中心</a></li>
+        </ul>
+    </div>
+</nav>
+
 <div class="">
     <div class="position_relative">
         <div class="mask"><h1 class="flex align_center justify_center">文档中心</h1></div>
@@ -24,7 +40,7 @@
 </div>
 
 <div class="container">
-    <div class="row">
+    <div class="row ty_border_bottom">
         <div class="col-md-12 col-sm-12 col-xs-12">
             <h4>官方文档</h4>
         </div>
@@ -56,9 +72,37 @@
         </div>
     </div>
 </div>
+<div class="container">
+    <div class="row ty_border_bottom">
+        <div class="col-md-12 col-sm-12 col-xs-12">
+            <h4>报表</h4>
+        </div>
+    </div>
+    <div class="row margin-top-5">
+        <div class="col-md-4 col-sm-4 col-xs-4 height_8rem flex align_center justify_center">
+            <a class="text-center" href="honor_upload/index.html">
+                <svg class="icon icon_3rem" aria-hidden="true">
+                    <use xlink:href="#icon-gz"></use>
+                </svg>
+                <p>荣耀升级</p>
+            </a>
+        </div>
+    </div>
+</div>
+
+<div class="footer">
+    <p class="text-center">
+        <span class="i18n" name="version">©2018-2019 Powered by</span>
+        <a href="http://www.hivebanks.com">hivebanks</a>
+    </p>
+</div>
 
 <script src="common/js/jquery-3.2.1.min.js"></script>
 <script src="common/js/bootstrap.min.js"></script>
 <script src="../../js/cnt.js"></script>
+<script src="common/js/wx.js"></script>
+<script src="common/js/common.js"></script>
+<script src="common/js/login_status.js"></script>
+<script src="common/js/share.js"></script>
 </body>
 </html>

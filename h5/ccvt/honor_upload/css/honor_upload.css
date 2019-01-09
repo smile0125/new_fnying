@@ -1,0 +1,44 @@
+
+th, td {
+    border: 1px solid #333333;
+    text-align: center;
+}
+
+p {
+    margin: 0;
+}
+
+.zhu {
+    color: #333333;
+}
+
+th[colspan="11"] {
+    height: 5rem;
+}
+
+td {
+    height: 3rem;
+}
+
+th p:last-child {
+    color: red;
+}
+
+.bg_yel {
+    background: #fcff007d;
+}
+
+.bg_gre {
+    background: #7dd434ba;
+}
+
+h2.title {
+    position: absolute;
+    top: 50%;
+    color: #ffffff;
+    text-align: center;
+    width: 100%;
+    margin: 0;
+    height: 3rem;
+    margin-top: -1.5rem;
+}

@@ -2,21 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7424d33-5af3-4cd1-b685-bf467c6ae6fb" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/h5/ccvt/common/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h5/ccvt/common/css/common.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h5/ccvt/common/css/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h5/ccvt/common/img/doc_banner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h5/ccvt/common/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h5/ccvt/common/js/jquery-3.2.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h5/ccvt/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h5/ccvt/beginner/css/beginner.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h5/ccvt/beginner/img/tiro1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h5/ccvt/beginner/img/tiro2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h5/ccvt/beginner/img/tiro3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h5/ccvt/beginner/img/tiro4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h5/ccvt/beginner/img/tiro5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h5/ccvt/beginner/index3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h5/ccvt/common/css/weui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h5/ccvt/common/css/weuix.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h5/ccvt/common/img/ccvt_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h5/ccvt/common/js/lazy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h5/ccvt/common/js/login_status.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h5/ccvt/common/js/wx.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h5/ccvt/common/js/zepto.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h5/ccvt/honor_upload/css/honor_upload.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h5/ccvt/honor_upload/img/honor.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h5/ccvt/honor_upload/img/honor_upload.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h5/ccvt/honor_upload/img/low_honor.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h5/ccvt/honor_upload/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h5/ccvt/honor_upload/js/honor_upload.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h5/ccvt/honor_upload/json/honor_upload.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/h5/ccvt/Q&amp;A/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/h5/ccvt/Q&amp;A/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/h5/ccvt/Q&amp;A/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/h5/ccvt/Q&amp;A/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h5/ccvt/beginner/images/5bfe2c309bbd0f733000f6ef.png" beforeDir="false" afterPath="$PROJECT_DIR$/h5/ccvt/beginner/images/5bfe2c309bbd0f733000f6ef.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/h5/ccvt/beginner/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/h5/ccvt/beginner/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/h5/ccvt/common/img/ccvt.png" beforeDir="false" afterPath="$PROJECT_DIR$/h5/ccvt/common/img/ccvt.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/h5/ccvt/common/js/share.js" beforeDir="false" afterPath="$PROJECT_DIR$/h5/ccvt/common/js/share.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/h5/doc/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/h5/ccvt/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/h5/doc/question.html" beforeDir="false" afterPath="$PROJECT_DIR$/h5/doc/question.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h5/ccvt/beginner/js/5bff5160ecb65e1edc5f3842.js" beforeDir="false" afterPath="$PROJECT_DIR$/h5/ccvt/beginner/js/5bff5160ecb65e1edc5f3842.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h5/ccvt/common/css/common.css" beforeDir="false" afterPath="$PROJECT_DIR$/h5/ccvt/common/css/common.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h5/ccvt/common/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/h5/ccvt/common/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h5/ccvt/common/img/doc_banner.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/h5/ccvt/common/img/doc_banner.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h5/ccvt/common/js/common.js" beforeDir="false" afterPath="$PROJECT_DIR$/h5/ccvt/common/js/common.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h5/ccvt/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/h5/ccvt/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h5/doc/css/doc.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/h5/doc/js/doc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/h5/doc/js/share.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/h5/doc/newbie_tutorial.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/h5/doc/question.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/h5/doc/tiro.html" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -30,26 +52,20 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/h5/ccvt/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="167">
-              <caret line="33" column="42" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
+            <state relative-caret-position="589">
+              <caret line="104" selection-start-line="104" selection-end-line="104" selection-end-column="49" />
+              <folding>
+                <element signature="n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/h5/ccvt/common/css/index.css">
+      <file leaf-file-name="common.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/h5/ccvt/common/js/common.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="441">
-              <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="common.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/h5/ccvt/common/css/common.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="367">
-              <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+            <state relative-caret-position="378">
+              <caret line="18" column="23" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -57,12 +73,48 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/h5/ccvt/Q&amp;A/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="101" selection-start-line="101" selection-end-line="101" selection-end-column="42" />
+            <state relative-caret-position="610">
+              <caret line="126" selection-start-line="126" selection-end-line="126" selection-end-column="52" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/h5/ccvt/honor_upload/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="610">
+              <caret line="125" column="52" selection-start-line="125" selection-start-column="52" selection-end-line="125" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/h5/ccvt/beginner/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="57" column="52" selection-start-line="57" selection-start-column="52" selection-end-line="57" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login_status.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/h5/ccvt/common/js/login_status.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="21">
+              <caret line="1" column="54" selection-start-line="1" selection-start-column="54" selection-end-line="1" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="common.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/h5/ccvt/common/css/common.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="503">
+              <caret line="40" column="28" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -72,9 +124,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -86,6 +138,7 @@
       <find>.navbar-default .navbar-nav &gt; .active &gt; a</find>
       <find>.slide-text &gt; a.btn-primary:hover</find>
       <find>.slide-text &gt; a:hover</find>
+      <find>ma</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -101,15 +154,25 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/h5/doc/js/share.js" />
         <option value="$PROJECT_DIR$/h5/doc/tiro.html" />
-        <option value="$PROJECT_DIR$/h5/ccvt/common/js/common.js" />
         <option value="$PROJECT_DIR$/h5/doc/question.html" />
         <option value="$PROJECT_DIR$/h5/ccvt/common/js/share.js" />
         <option value="$PROJECT_DIR$/h5/ccvt/Q&amp;A/css/main.css" />
+        <option value="$PROJECT_DIR$/h5/ccvt/common/css/index.css" />
+        <option value="$PROJECT_DIR$/h5/ccvt/beginner/index2.html" />
+        <option value="$PROJECT_DIR$/h5/ccvt/beginner/css/beginner.css" />
+        <option value="$PROJECT_DIR$/h5/ccvt/honor_upload/honor_upload.js" />
+        <option value="$PROJECT_DIR$/h5/ccvt/honor_upload/honor_upload.html" />
+        <option value="$PROJECT_DIR$/h5/ccvt/honor_upload/js/honor_upload.js" />
+        <option value="$PROJECT_DIR$/h5/ccvt/honor_upload/json/honor_upload.json" />
+        <option value="$PROJECT_DIR$/h5/ccvt/common/js/lazy.js" />
+        <option value="$PROJECT_DIR$/h5/ccvt/honor_upload/css/honor_upload.css" />
+        <option value="$PROJECT_DIR$/h5/ccvt/index.html" />
         <option value="$PROJECT_DIR$/h5/ccvt/Q&amp;A/index.html" />
+        <option value="$PROJECT_DIR$/h5/ccvt/honor_upload/index.html" />
         <option value="$PROJECT_DIR$/h5/ccvt/beginner/index.html" />
         <option value="$PROJECT_DIR$/h5/ccvt/common/css/common.css" />
-        <option value="$PROJECT_DIR$/h5/ccvt/index.html" />
-        <option value="$PROJECT_DIR$/h5/ccvt/common/css/index.css" />
+        <option value="$PROJECT_DIR$/h5/ccvt/common/js/common.js" />
+        <option value="$PROJECT_DIR$/h5/ccvt/common/js/login_status.js" />
       </list>
     </option>
   </component>
@@ -163,7 +226,7 @@
               <item name="h5" type="462c0819:PsiDirectoryNode" />
               <item name="ccvt" type="462c0819:PsiDirectoryNode" />
               <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="新风赢科技官网" type="b2602c69:ProjectViewProjectNode" />
@@ -188,11 +251,13 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/h5/ccvt/common/img" />
-      <recent name="$PROJECT_DIR$/h5/ccvt/common/css" />
+      <recent name="$PROJECT_DIR$/h5/ccvt/honor_upload/img" />
+      <recent name="$PROJECT_DIR$/h5/ccvt/honor_upload" />
       <recent name="$PROJECT_DIR$/h5/ccvt/common/js" />
-      <recent name="$PROJECT_DIR$/h5/doc" />
+      <recent name="$PROJECT_DIR$/h5/ccvt/common/css" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/h5/ccvt/honor_upload/js" />
       <recent name="$PROJECT_DIR$/h5/ccvt" />
       <recent name="$PROJECT_DIR$/h5/doc/js" />
       <recent name="$PROJECT_DIR$/h5/doc/css" />
@@ -223,28 +288,29 @@
       <workItem from="1542185286551" duration="3888000" />
       <workItem from="1543224331396" duration="797000" />
       <workItem from="1543901153056" duration="1056000" />
-      <workItem from="1546609552698" duration="12020000" />
+      <workItem from="1546609552698" duration="19556000" />
+      <workItem from="1547010678050" duration="7561000" />
+      <workItem from="1547027692024" duration="2309000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17761000" />
+    <option name="totallyTimeSpent" value="35167000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26752505" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32969698" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26037195" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32969698" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32969698" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -253,6 +319,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32969698" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -262,231 +329,17 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1260">
-          <caret line="60" column="70" selection-start-line="60" selection-start-column="70" selection-end-line="60" selection-end-column="70" />
-          <folding>
-            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#3;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#4;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#5;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#6;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/bootstrap-touch-slider.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2415">
-          <caret line="115" column="71" selection-start-line="115" selection-start-column="71" selection-end-line="115" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2310">
-          <caret line="110" column="23" selection-start-line="110" selection-start-column="23" selection-end-line="110" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/common.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9933">
-          <caret line="473" column="29" lean-forward="true" selection-start-line="473" selection-start-column="29" selection-end-line="473" selection-end-column="29" />
-          <folding>
-            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#3;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#4;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#5;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#6;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2415">
-          <caret line="115" column="71" selection-start-line="115" selection-start-column="71" selection-end-line="115" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2310">
-          <caret line="110" column="23" selection-start-line="110" selection-start-column="23" selection-end-line="110" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/common.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2415">
-          <caret line="115" column="71" selection-start-line="115" selection-start-column="71" selection-end-line="115" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/common.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2310">
-          <caret line="110" column="23" selection-start-line="110" selection-start-column="23" selection-end-line="110" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/jquery.touchSwipe.min.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/bootstrap-touch-slider.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/h5/1805/invitation/js/invitation.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="365">
-          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/share_ccvt.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/h5/1809/invitation/js/invitation.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="31" column="23" lean-forward="true" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/owl.carousel.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/h5/1809/invitation/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="73" column="2" selection-start-line="73" selection-start-column="2" selection-end-line="73" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="503" column="19" lean-forward="true" selection-start-line="503" selection-start-column="19" selection-end-line="503" selection-end-column="19" />
-          <folding>
-            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#3;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#4;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#5;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#6;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/h5/ccvt/Q&amp;A/img/4.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/h5/ccvt/Q&amp;A/img/ccvt.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/h5/doc/js/doc.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-523" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/h5/doc/js/share.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/common.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/h5/doc/tiro.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/h5/doc/tiro.html" />
     <entry file="file://$PROJECT_DIR$/h5/ccvt/common/img/ccvt.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/favicon.ico">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/h5/doc/question.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/h5/ccvt/common/js/common.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/h5/ccvt/common/js/share.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
           <caret line="1" column="18" lean-forward="true" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/h5/ccvt/Q&amp;A/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -499,31 +352,121 @@
     <entry file="file://$PROJECT_DIR$/h5/ccvt/favicon.ico">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/h5/ccvt/beginner/index.html">
+    <entry file="file://$PROJECT_DIR$/../js/cnt.js" />
+    <entry file="file://$PROJECT_DIR$/js/cnt.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/h5/ccvt/common/js/bootstrap.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/h5/ccvt/beginner/js/wx.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="586" column="29" lean-forward="true" selection-start-line="586" selection-start-column="29" selection-end-line="586" selection-end-column="29" />
+        <state relative-caret-position="-439" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/h5/ccvt/Q&amp;A/js/wx.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/h5/ccvt/common/js/wx.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/h5/doc/question.html" />
+    <entry file="file://$PROJECT_DIR$/h5/ccvt/beginner/images/5bfe2c309bbd0f733000f6ef.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/h5/ccvt/beginner/images的副本/bg.png" />
+    <entry file="file://$PROJECT_DIR$/h5/ccvt/beginner/index3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4163">
+          <caret line="11" column="52" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="11" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/h5/ccvt/beginner/images的副本/ccvt_title.png" />
+    <entry file="file://$PROJECT_DIR$/h5/ccvt/beginner/images的副本/robot.png" />
+    <entry file="file://$PROJECT_DIR$/h5/ccvt/beginner/images的副本/robot_message.png" />
+    <entry file="file://$PROJECT_DIR$/h5/ccvt/beginner/images的副本/title_bg.png" />
+    <entry file="file://$PROJECT_DIR$/h5/ccvt/beginner/images的副本/5bfe2c309bbd0f733000f6ef.png" />
+    <entry file="file://$PROJECT_DIR$/h5/ccvt/beginner/images的副本/invite.jpg" />
+    <entry file="file://$PROJECT_DIR$/h5/ccvt/beginner/images的副本/5bff4d4becb65e3962014160.jpg" />
+    <entry file="file://$PROJECT_DIR$/h5/ccvt/beginner/images的副本/5bff43f1ecb65e1149074290.jpg" />
+    <entry file="file://$PROJECT_DIR$/h5/ccvt/beginner/images的副本/5bff43e9ecb65e42dd20b9fe.jpg" />
+    <entry file="file://$PROJECT_DIR$/h5/ccvt/beginner/images的副本/5bff4c68ecb65e20d268c9d3.jpg" />
+    <entry file="file://$PROJECT_DIR$/h5/ccvt/beginner/images的副本/5bfe57949bbd0f6d8012317e.jpg" />
+    <entry file="file://$PROJECT_DIR$/h5/ccvt/beginner/images的副本/5bfe15129bbd0f25b7437b6f.png" />
+    <entry file="file://$PROJECT_DIR$/h5/ccvt/beginner/images的副本/5bfe15189bbd0f25b2020461.png" />
+    <entry file="file://$PROJECT_DIR$/h5/ccvt/beginner/images的副本/login.jpg" />
+    <entry file="file://$PROJECT_DIR$/h5/ccvt/beginner/images的副本/title_bg2.png" />
+    <entry file="file://$PROJECT_DIR$/h5/ccvt/beginner/images的副本/how_get_ccvt.png" />
+    <entry file="file://$PROJECT_DIR$/h5/ccvt/beginner/images的副本/title_bg4.png" />
+    <entry file="file://$PROJECT_DIR$/h5/ccvt/beginner/css/beginner.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/h5/ccvt/common/css/weui.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/h5/ccvt/common/js/zepto.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/h5/ccvt/Q&amp;A/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/h5/ccvt/honor_upload/json/honor_upload.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="728">
+          <caret line="159" column="16" selection-start-line="159" selection-start-column="16" selection-end-line="159" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/h5/ccvt/honor_upload/img/honor_upload.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/h5/ccvt/honor_upload/js/honor_upload.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="28" lean-forward="true" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/h5/ccvt/common/js/lazy.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/h5/ccvt/honor_upload/css/honor_upload.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="694">
+          <caret line="42" column="24" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/h5/ccvt/common/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="30" column="23" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/h5/ccvt/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="104" selection-start-line="104" selection-end-line="104" selection-end-column="49" />
           <folding>
-            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
-            <element signature="n#script#4;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/h5/ccvt/Q&amp;A/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="101" selection-start-line="101" selection-end-line="101" selection-end-column="42" />
+        <state relative-caret-position="610">
+          <caret line="126" selection-start-line="126" selection-end-line="126" selection-end-column="52" />
           <folding>
             <element signature="n#style#0;n#img#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -531,39 +474,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../js/cnt.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/cnt.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/h5/ccvt/common/js/bootstrap.min.js">
+    <entry file="file://$PROJECT_DIR$/h5/ccvt/honor_upload/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state relative-caret-position="610">
+          <caret line="125" column="52" selection-start-line="125" selection-start-column="52" selection-end-line="125" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/h5/ccvt/beginner/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="57" column="52" selection-start-line="57" selection-start-column="52" selection-end-line="57" selection-end-column="52" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/h5/ccvt/common/css/common.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+        <state relative-caret-position="503">
+          <caret line="40" column="28" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/h5/ccvt/index.html">
+    <entry file="file://$PROJECT_DIR$/h5/ccvt/common/js/common.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="33" column="42" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
+        <state relative-caret-position="378">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/h5/ccvt/common/css/index.css">
+    <entry file="file://$PROJECT_DIR$/h5/ccvt/common/js/login_status.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+        <state relative-caret-position="21">
+          <caret line="1" column="54" selection-start-line="1" selection-start-column="54" selection-end-line="1" selection-end-column="54" />
         </state>
       </provider>
     </entry>
