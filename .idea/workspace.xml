@@ -1,45 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c7424d33-5af3-4cd1-b685-bf467c6ae6fb" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/h5/ccvt/beginner/css/beginner.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h5/ccvt/beginner/img/tiro1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h5/ccvt/beginner/img/tiro2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h5/ccvt/beginner/img/tiro3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h5/ccvt/beginner/img/tiro4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h5/ccvt/beginner/img/tiro5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h5/ccvt/beginner/index3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h5/ccvt/common/css/weui.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h5/ccvt/common/css/weuix.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h5/ccvt/common/img/ccvt_logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h5/ccvt/common/js/lazy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h5/ccvt/common/js/login_status.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h5/ccvt/common/js/wx.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h5/ccvt/common/js/zepto.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h5/ccvt/honor_upload/css/honor_upload.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h5/ccvt/honor_upload/img/honor.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h5/ccvt/honor_upload/img/honor_upload.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h5/ccvt/honor_upload/img/low_honor.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h5/ccvt/honor_upload/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h5/ccvt/honor_upload/js/honor_upload.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h5/ccvt/honor_upload/json/honor_upload.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/h5/ccvt/Q&amp;A/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/h5/ccvt/Q&amp;A/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/h5/ccvt/beginner/images/5bfe2c309bbd0f733000f6ef.png" beforeDir="false" afterPath="$PROJECT_DIR$/h5/ccvt/beginner/images/5bfe2c309bbd0f733000f6ef.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/h5/ccvt/beginner/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/h5/ccvt/beginner/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/h5/ccvt/beginner/js/5bff5160ecb65e1edc5f3842.js" beforeDir="false" afterPath="$PROJECT_DIR$/h5/ccvt/beginner/js/5bff5160ecb65e1edc5f3842.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/h5/ccvt/common/css/common.css" beforeDir="false" afterPath="$PROJECT_DIR$/h5/ccvt/common/css/common.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/h5/ccvt/common/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/h5/ccvt/common/css/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/h5/ccvt/common/img/doc_banner.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/h5/ccvt/common/img/doc_banner.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/h5/ccvt/common/js/common.js" beforeDir="false" afterPath="$PROJECT_DIR$/h5/ccvt/common/js/common.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/h5/ccvt/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/h5/ccvt/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/h5/doc/css/doc.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/h5/doc/js/doc.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/h5/doc/js/share.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/h5/doc/newbie_tutorial.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/h5/doc/question.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/h5/doc/tiro.html" beforeDir="false" />
-    </list>
+    <list default="true" id="c7424d33-5af3-4cd1-b685-bf467c6ae6fb" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -101,7 +63,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="login_status.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="login_status.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/h5/ccvt/common/js/login_status.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="21">
@@ -110,11 +72,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="common.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="common.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/h5/ccvt/common/css/common.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="503">
-              <caret line="40" column="28" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="28" />
+            <state relative-caret-position="378">
+              <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -170,9 +132,9 @@
         <option value="$PROJECT_DIR$/h5/ccvt/Q&amp;A/index.html" />
         <option value="$PROJECT_DIR$/h5/ccvt/honor_upload/index.html" />
         <option value="$PROJECT_DIR$/h5/ccvt/beginner/index.html" />
-        <option value="$PROJECT_DIR$/h5/ccvt/common/css/common.css" />
         <option value="$PROJECT_DIR$/h5/ccvt/common/js/common.js" />
         <option value="$PROJECT_DIR$/h5/ccvt/common/js/login_status.js" />
+        <option value="$PROJECT_DIR$/h5/ccvt/common/css/common.css" />
       </list>
     </option>
   </component>
@@ -290,18 +252,17 @@
       <workItem from="1543901153056" duration="1056000" />
       <workItem from="1546609552698" duration="19556000" />
       <workItem from="1547010678050" duration="7561000" />
-      <workItem from="1547027692024" duration="2309000" />
+      <workItem from="1547027692024" duration="3268000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35167000" />
+    <option name="totallyTimeSpent" value="36126000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26752505" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26752505" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -310,7 +271,7 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32969698" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32969698" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -488,13 +449,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/h5/ccvt/common/css/common.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="503">
-          <caret line="40" column="28" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/h5/ccvt/common/js/common.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
@@ -506,6 +460,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
           <caret line="1" column="54" selection-start-line="1" selection-start-column="54" selection-end-line="1" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/h5/ccvt/common/css/common.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
         </state>
       </provider>
     </entry>
